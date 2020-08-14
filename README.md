@@ -1,3 +1,5 @@
+This Project is Live [Click here](https://covid-tracker-79431.web.app/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
