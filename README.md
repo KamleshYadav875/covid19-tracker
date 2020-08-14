@@ -1,5 +1,7 @@
 This Project is Live [Click here](https://covid-tracker-79431.web.app/)
 
+Thanks to clever Programming for the project [Visite youtube channel of Clever Programming](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
