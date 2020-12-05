@@ -3,7 +3,12 @@ This Project is Live [Click here](https://covid-tracker-79431.web.app/)
 Thanks to clever Programming for the project [Visite youtube channel of Clever Programming](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Screenshots
+### Worldwide Covid-19 cases
+![Worldwide](https://github.com/KamleshYadav875/covid19-tracker/blob/master/worldwide.png)
 
+### India Covid-19 cases
+![Worldwide](https://github.com/KamleshYadav875/covid19-tracker/blob/master/India.png)
 ## Available Scripts
 
 In the project directory, you can run:
